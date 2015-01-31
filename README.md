@@ -20,6 +20,7 @@ Para obtener el código y las notas por favor elige uno de estos pasos:
 - [Youtube: /webtrainingmx](https://www.youtube.com/user/webtrainingmx)
 
 ## Conexión a base de datos
+- Database Name: drupalcero 
 - Username: drupalcero
 - Passwd:   drupalcero
 - Host/server: localhost
