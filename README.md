@@ -18,3 +18,12 @@ Para obtener el código y las notas por favor elige uno de estos pasos:
 - [Twitter: @webtrainingmx](https://twitter.com/webtrainingmx)
 - [Facebook: /webtrainingmx](https://www.facebook.com/webtrainingmx)
 - [Youtube: /webtrainingmx](https://www.youtube.com/user/webtrainingmx)
+
+## Conexión a base de datos
+- Username: drupalcero
+- Passwd:   drupalcero
+- Host/server: localhost
+
+# Usuario y contraseña de Drupal
+- Username: admin
+- Password: admin
